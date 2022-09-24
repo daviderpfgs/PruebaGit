@@ -1,6 +1,6 @@
 prueba de otro txt para probar soft
 le hicimos commit
 solo vamos a add .
-vamos a cambiar solo este documento
-ahora despues del soft
-no he hecho add
+vamos a cambiar solo este documento 
+ahora vamos a hacer un merge
+Colocamos lo de desa
