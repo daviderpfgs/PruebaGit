@@ -2,4 +2,4 @@ prueba de otro txt para probar soft
 le hicimos commit
 solo vamos a add .
 vamos a cambiar solo este documento
-prueba de soft
+ahora despues del soft
