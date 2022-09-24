@@ -3,3 +3,4 @@ le hicimos commit
 solo vamos a add .
 vamos a cambiar solo este documento
 ahora despues del soft
+no he hecho add
